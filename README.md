@@ -4,19 +4,14 @@ Welcome to my GitHub! I'm a master's student in **Computational Social Science**
 
 ## 👩‍💻 About Me
 - 🌱 Currently focused on **AI Ethics** and **digital literacy** for youth.
-- 🎓 Exploring how **Child Psychology** and **Computational Social Science** intersect with technology.
 - 🌍 Passionate about responsible tech and its role in empowering education.
 - 📖 Always learning and working on projects to deepen my understanding of these fields.
 
-## 🚀 Skills & Tools
+## 💡 My Toolkit & Communities
 - **Languages**: Currently learning Python, R, and SQL
 - **Tools & Frameworks**: Jupyter Notebooks, RStudio, Git, VS Code
 - **Topics**: AI Ethics, Digital Literacy, and Educational Technology
-
-### 🌐 Organizations
-- **Innovation for Everyone**
-- **All Tech Is Human**
-- **Encode Justice**
+- **Organizations**: Innovation for Everyone, All Tech Is Human, Encode Justice
 
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/erika-garzaelorduy)
