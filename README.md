@@ -1,4 +1,4 @@
-# Hey there, I'm Erika Garza-Elorduy 👋
+# Hey there, I'm Erika Garza-Elorduy! 👋
 
 Welcome to my GitHub! I'm a master's student in **Computational Social Science** at UC San Diego, with a background in **Child Psychology** and a deep interest in **AI Ethics** and **Digital Literacy** for youth.
 
