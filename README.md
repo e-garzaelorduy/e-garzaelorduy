@@ -4,8 +4,8 @@ Welcome to my GitHub! I'm a master's student in **Computational Social Science**
 
 ## 👩‍💻 About Me
 - 🌱 Currently focused on **AI Ethics** and **digital literacy** for youth.
-- 🌍 Passionate about responsible tech and its role in empowering education.
-- 📖 Always learning and working on projects to deepen my understanding of these fields.
+- 🌍 Passionate about responsible tech and education reform.
+- 📖 Always learning!
 
 ## 💡 My Toolkit & Communities
 - **Languages**: Currently learning Python, R, and SQL
