@@ -14,5 +14,5 @@ Welcome to my GitHub! I'm a master's student in **Computational Social Science**
 - **Organizations**: Innovation for Everyone, All Tech Is Human, Encode Justice
 
 ## 📫 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/erika-garzaelorduy)
+- [LinkedIn](https://https://www.linkedin.com/in/erika-garza-elorduy/)
 - [Email me](mailto:erikagarzaelorduy@gmail.com)
