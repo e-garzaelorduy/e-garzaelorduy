@@ -13,6 +13,6 @@ Welcome to my GitHub! I'm a master's student in **Computational Social Science**
 - **Topics**: AI Ethics, Digital Literacy, and Educational Technology
 - **Organizations**: Innovation for Everyone, All Tech Is Human, Encode Justice
 
-## 📫 Let's Connect
+## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/erika-garzaelorduy)
 - [Email me](mailto:erikagarzaelorduy@gmail.com)
