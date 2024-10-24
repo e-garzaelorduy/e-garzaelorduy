@@ -3,7 +3,7 @@
 Welcome to my GitHub! I'm a master's student in **Computational Social Science** at UC San Diego, with a background in **Child Psychology** and a deep interest in **AI Ethics** and **Digital Literacy** for youth.
 
 ## 👩‍💻 About Me
-- 🌍 Passionate about responsible tech and education reform.
+- 🌍 Passionate about **responsible tech** and **education reform**.
 - 📖 Always learning!
 
 ## 💡 My Toolkit & Communities
