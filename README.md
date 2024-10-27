@@ -18,5 +18,5 @@ Welcome to my GitHub! I'm a master's student in **Computational Social Science**
 - [Email me](mailto:erikagarzaelorduy@gmail.com)
 
 ## 🌱 Off the Clock
-- [What I'm reading!](https://app.thestorygraph.com/profile/erikagarzaelorduy)
-- [What I'm watching!](https://letterboxd.com/RealityAtBay/)
+- [What I'm reading](https://app.thestorygraph.com/profile/erikagarzaelorduy)
+- [What I'm watching](https://letterboxd.com/RealityAtBay/)
