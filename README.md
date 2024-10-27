@@ -1,6 +1,6 @@
 # Hey there, I'm Erika Garza-Elorduy! 👋
 
-Welcome to my GitHub! I'm a master's student in **Computational Social Science** at UC San Diego, with a background in **Child Psychology** and a deep interest in **AI Ethics** and **Digital Literacy** for youth.
+Welcome to my GitHub! I'm a master's student in **Computational Social Science** at UC San Diego, with a background in **Child Psychology** and a deep interest in **AI Ethics** and **Digital Literacy**.
 
 ## 👩‍💻 About Me
 - 🌍 Passionate about **responsible tech** and **education reform**.
@@ -15,3 +15,5 @@ Welcome to my GitHub! I'm a master's student in **Computational Social Science**
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/erika-garza-elorduy/)
 - [Email me](mailto:erikagarzaelorduy@gmail.com)
+- [What I'm Reading](https://app.thestorygraph.com/profile/erikagarzaelorduy)
+- [What I'm watching](https://letterboxd.com/RealityAtBay/)
