@@ -4,6 +4,7 @@ Welcome to my GitHub! I'm a master's student in **Computational Social Science**
 
 ## 👩‍💻 About Me
 - 🌍 Passionate about **responsible tech** and **education reform**.
+- 🧠 Exploring the intersection of technology, policy, and education to create **data-driven solutions.** 
 - 📖 Always learning!
 
 ## 💡 My Toolkit & Communities
@@ -15,5 +16,7 @@ Welcome to my GitHub! I'm a master's student in **Computational Social Science**
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/erika-garza-elorduy/)
 - [Email me](mailto:erikagarzaelorduy@gmail.com)
-- [What I'm Reading](https://app.thestorygraph.com/profile/erikagarzaelorduy)
-- [What I'm watching](https://letterboxd.com/RealityAtBay/)
+
+## 🌱 Off the Clock
+- [What I'm reading!](https://app.thestorygraph.com/profile/erikagarzaelorduy)
+- [What I'm watching!](https://letterboxd.com/RealityAtBay/)
