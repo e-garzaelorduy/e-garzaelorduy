@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a master's student in **Computational Social Science**
 - 📖 Always learning!
 
 ## 💡 My Toolkit & Communities
-- **Languages**: Currently learning Python, R, and JavaScript
+- **Languages**: Python, R, and JavaScript
 - **Tools & Frameworks**: Jupyter Notebooks, RStudio, Git, VS Code
 - **Topics**: AI Ethics, Digital Literacy, and Educational Technology
 - **Organizations**: Innovation for Everyone, All Tech Is Human, Encode Justice
