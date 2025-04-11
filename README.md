@@ -20,5 +20,4 @@ Welcome to my GitHub! I'm a master's student in **Computational Social Science**
 ## 🌱 Off the Clock
 - [What I'm reading](https://app.thestorygraph.com/profile/erikagarzaelorduy)
 
-## Browse:
-- [My Website!](https://e-garzaelorduy.github.io/)
+## Browse my [Website!](https://e-garzaelorduy.github.io/)
