@@ -11,7 +11,7 @@ Welcome to my GitHub! I'm a master's student in **Computational Social Science**
 - **Languages**: Python, R, and JavaScript
 - **Tools & Frameworks**: Jupyter Notebooks, RStudio, Git, VS Code
 - **Topics**: AI Ethics, Digital Literacy, and Educational Technology
-- **Organizations**: Innovation for Everyone, All Tech Is Human, Encode Justice
+- **Organizations**: Innovation for Everyone, All Tech Is Human
 
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/erika-garza-elorduy/)
